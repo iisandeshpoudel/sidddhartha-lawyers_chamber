@@ -1,0 +1,370 @@
+{
+  "hero": {
+    "badge": "TRUSTED LEGAL COUNSEL",
+    "heading": {
+      "part1": "Strategic",
+      "part2": "Legal Solutions",
+      "part3": "With Integrity"
+    },
+    "subtitle": "Premier legal representation combining decades of experience with modern strategic thinking.",
+    "cta1": "SCHEDULE CONSULTATION",
+    "cta2": "OUR PRACTICE AREAS",
+    "scroll": "EXPLORE OUR FIRM"
+  },
+
+  "practice": {
+    "badge": "LEGAL EXPERTISE",
+    "heading": "Our Practice Areas",
+    "subtitle": "Comprehensive legal services tailored to your specific needs.",
+    "consultation": "Get Consultation",
+    "bankingFinance": {
+      "title": "Banking & Finance Law",
+      "desc": "Regulating financial institutions and ensuring the security of financial transactions.",
+      "highlights": [
+        "Regulations for Banks and Financial Institutions",
+        "Consumer Protection in Financial Services",
+        "Loan Agreements and Securities"
+      ]
+    },
+    "corporate": {
+      "title": "Corporate Law",
+      "desc": "Advising businesses with legal compliance, contracts, and regulations.",
+      "highlights": [
+        "Business Formation",
+        "Mergers & Acquisitions",
+        "Compliance"
+      ]
+    },
+    "family": {
+      "title": "Family Law",
+      "desc": "Regulating legal matters related to marriage, divorce, child custody, and inheritance.",
+      "highlights": [
+        "Divorce and Separation",
+        "Child Custody and Support",
+        "Inheritance and Succession"
+      ]
+    },
+    "criminal": {
+      "title": "Criminal Law",
+      "desc": "Defending individuals with fairness and expertise in criminal cases.",
+      "highlights": ["Bail Hearings", "Trials", "Appeals"]
+    },
+    "marriage": {
+      "title": "Marriage Law",
+      "desc": "Regulating the legal aspects of marriage and protecting the rights of spouses.",
+      "highlights": [
+        "Marriage Registration",
+        "Rights of Spouses",
+        "Grounds for Divorce"
+      ]
+    },
+    "tax": {
+      "title": "Tax Law",
+      "desc": "Navigating complex tax regulations and disputes with authorities.",
+      "highlights": ["Tax Planning", "Audit Defense", "Appeals"]
+    }
+  },
+
+  "whyUs": {
+    "sectionTitle": "WHY CHOOSE US",
+    "heading": "The Right Choice for Your Legal Needs",
+    "subheading": "We combine legal expertise with personalized service to deliver exceptional results.",
+    "points": {
+      "experienced": {
+        "title": "Experienced Advocates",
+        "desc": "25+ years combined experience handling complex legal cases with proven results.",
+        "highlight": "25+ Years"
+      },
+      "clientFirst": {
+        "title": "Client-First Philosophy",
+        "desc": "Personalized attention with clear communication at every step of your case.",
+        "highlight": "95% Satisfaction"
+      },
+      "trackRecord": {
+        "title": "Proven Track Record",
+        "desc": "Consistent success in achieving optimal outcomes for our clients.",
+        "highlight": "500+ Cases"
+      },
+      "ethical": {
+        "title": "Ethical Practice",
+        "desc": "We uphold the highest standards of professional integrity and honesty.",
+        "highlight": "Award-Winning"
+      },
+      "timely": {
+        "title": "Timely Service",
+        "desc": "Prompt responses and efficient handling of all legal matters.",
+        "highlight": "24h Response"
+      },
+      "support": {
+        "title": "Comprehensive Support",
+        "desc": "End-to-end legal guidance tailored to your specific needs.",
+        "highlight": "360° Approach"
+      }
+    },
+    "partners": {
+      "title": "Our Trusted Partners",
+      "description": "We collaborate with leading legal organizations to deliver comprehensive solutions."
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today for a confidential consultation about your legal matter.",
+      "consultationBtn": "Schedule Consultation",
+      "callBtn": "Call Now"
+    }
+  },
+  "awards": {
+    "sectionTitle": "RECOGNITION",
+    "heading": "Our Awards & Honors",
+    "subheading": "Recognized for excellence in legal practice and client service."
+  },
+  "clients": {
+    "sectionTitle": "OUR CLIENTS",
+    "heading": "Clients We've Served",
+    "subheading": "Trusted by leading organizations across various sectors."
+  },
+
+  "insights": {
+    "sectionTitle": "LEGAL INSIGHTS",
+    "heading": "Latest Legal Perspectives",
+    "subheading": "Stay informed with our expert analysis on important legal developments.",
+    "viewAll": "View All Articles",
+    "posts": {
+      "businessLaw": {
+        "title": "New Business Law in Nepal 2025",
+        "desc": "Understanding the latest updates in corporate law and how they affect your business operations."
+      },
+      "familyLaw": {
+        "title": "Family Law & Rights",
+        "desc": "Key insights into marriage, divorce, and child custody laws in Nepal's evolving legal landscape."
+      },
+      "criminalJustice": {
+        "title": "Criminal Justice System",
+        "desc": "How our team helps clients navigate complex criminal cases and protect their rights effectively."
+      }
+    }
+  },
+  "faq": {
+    "sectionTitle": "COMMON QUESTIONS",
+    "heading": "Frequently Asked Questions",
+    "subheading": "Find answers to common queries about our legal services and processes.",
+    "questions": {
+      "consultation": {
+        "q": "Do you offer free consultations?",
+        "a": "Yes, we provide an initial 30-minute consultation free of charge to understand your case and determine how we can assist you. This allows us to evaluate your situation and provide preliminary advice."
+      },
+      "location": {
+        "q": "Where is your office located?",
+        "a": "Our main office is located in the heart of Kathmandu at Durbar Marg, with easy access to courts and government offices. We also offer virtual consultations for clients outside the valley."
+      },
+      "specialization": {
+        "q": "What areas of law do you specialize in?",
+        "a": "Our firm handles a wide range of legal matters including civil litigation, corporate law, criminal defense, family law, labor disputes, and property matters. Each of our attorneys has specific areas of expertise."
+      },
+      "fees": {
+        "q": "How are your fees structured?",
+        "a": "We offer flexible fee arrangements including hourly rates, fixed fees for specific services, and in some cases, contingency fees. During our initial consultation, we'll discuss the fee structure that best suits your case."
+      },
+      "duration": {
+        "q": "How long will my case take?",
+        "a": "The duration depends on the complexity of your case and court schedules. Simple matters may resolve in weeks, while complex litigation can take months or longer. We'll provide a realistic timeline after reviewing your case."
+      }
+    },
+    "cta": {
+      "title": "Need More Information?",
+      "description": "Our legal team is ready to answer any additional questions you may have.",
+      "button": "Contact Our Team"
+    },
+    "testimonials": {
+      "sectionTitle": "CLIENT VOICES",
+      "heading": "Client Testimonials",
+      "subheading": "Hear what our clients say about our services and commitment."
+    },
+    "contact": {
+      "sectionTitle": "GET IN TOUCH",
+      "heading": "Contact Our Legal Team",
+      "subheading": "Schedule a consultation with our legal experts to discuss your case.",
+      "officeInfo": {
+        "title": "Our Office",
+        "location": {
+          "label": "Location",
+          "address": "123 Legal Avenue, Durbar Marg\nKathmandu, Nepal"
+        },
+        "phone": {
+          "label": "Phone",
+          "numbers": ["+977-1-1234567", "+977-9876543210"]
+        },
+        "email": {
+          "label": "Email",
+          "addresses": ["siddharthalawc@gmail.com"]
+        },
+        "hours": {
+          "label": "Hours",
+          "weekdays": "Sunday - Friday: 9:00 AM - 7:00 PM",
+          "weekend": "Saturday: Holiday"
+        }
+      },
+      "cta": {
+        "title": "Begin Your Legal Journey",
+        "description": "Take the first step toward resolving your legal matters with our expert team.",
+        "buttons": {
+          "phone": "Immediate Assistance",
+          "email": "Email Our Team"
+        }
+      }
+    },
+    "footer": {
+      "brand": {
+        "description": "Strategic legal solutions with integrity. Providing premier legal representation combining decades of experience with modern strategic thinking."
+      },
+      "links": {
+        "title": "Quick Links",
+        "items": [
+          { "name": "Home", "href": "/home" },
+          { "name": "Practice Areas", "href": "/practice" },
+          { "name": "Why Choose Us", "href": "/whyus" },
+          { "name": "Our Team", "href": "/team" },
+          { "name": "Contact Us", "href": "/contact" }
+        ]
+      },
+      "practiceAreas": {
+        "title": "Practice Areas",
+        "items": [
+          "Corporate Law",
+          "Civil Litigation",
+          "Family Law",
+          "Criminal Defense",
+          "Real Estate",
+          "Immigration",
+          "Intellectual Property"
+        ]
+      },
+      "contactInfo": {
+        "title": "Contact Us",
+        "address": "123 Legal Avenue\nKathmandu, Nepal",
+        "phone": "+977 9857021739",
+        "email": "siddharthalawc@gmail.com",
+        "hours": {
+          "weekdays": "Mon-Fri: 9:00 AM - 7:00 PM",
+          "weekend": "Sat: Holiday"
+        }
+      },
+      "legal": {
+        "copyright": "© {year} LegalNepal. All rights reserved.",
+        "links": ["Privacy Policy", "Terms of Service", "Disclaimer"]
+      }
+    }
+  },
+  "testimonials": {
+    "sectionTitle": "CLIENT VOICES",
+    "heading": "Client Testimonials",
+    "subheading": "Hear what our clients say about our services and commitment."
+  },
+  "contact": {
+    "sectionTitle": "GET IN TOUCH",
+    "heading": "Contact Our Legal Team",
+    "subheading": "Schedule a consultation with our legal experts to discuss your case.",
+    "officeInfo": {
+      "title": "Our Office",
+      "location": {
+        "label": "Location",
+        "address": "PF48+HCM, Butwal 32907, Nepal"
+      },
+      "phone": {
+        "label": "Phone",
+        "numbers": [ "+977-9857021739"]
+      },
+      "email": {
+        "label": "Email",
+        "addresses": ["siddharthalawc@gmail.com"]
+      },
+      "hours": {
+        "label": "Hours",
+        "weekdays": "Sunday - Friday: 9:00 AM - 7:00 PM",
+        "weekend": "Saturday: Holiday"
+      }
+    },
+    "cta": {
+      "title": "Begin Your Legal Journey",
+      "description": "Take the first step toward resolving your legal matters with our expert team.",
+      "buttons": {
+        "phone": "Immediate Assistance",
+        "email": "Email Our Team"
+      }
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "Strategic legal solutions with integrity. Providing premier legal representation combining decades of experience with modern strategic thinking."
+    },
+    "links": {
+      "title": "Quick Links",
+      "items": [
+        { "name": "Home", "href": "#home" },
+        { "name": "Practice Areas", "href": "#practice" },
+        { "name": "Why Choose Us", "href": "#whyus" },
+        { "name": "Our Team", "href": "/team" },
+        { "name": "Contact Us", "href": "#contact" }
+      ]
+    },
+    "practiceAreas": {
+      "title": "Practice Areas",
+      "items": [
+        "Corporate Law",
+        "Civil Litigation",
+        "Family Law",
+        "Criminal Defense",
+        "Real Estate",
+        "Immigration",
+        "Intellectual Property"
+      ]
+    },
+    "contactInfo": {
+      "title": "Contact Us",
+      "address": "PF48+HCM, Butwal 32907, Nepal",
+      "phone": "+977 9857021739",
+      "email": "siddharthalawc@gmail.com",
+      "hours": {
+        "weekdays": "Mon-Fri: 9:00 AM - 7:00 PM",
+        "weekend": "Sat: Holiday"
+      }
+    },
+    "legal": {
+      "copyright": "© {year} LegalNepal. All rights reserved.",
+      "links": ["Privacy Policy", "Terms of Service", "Disclaimer"]
+    }
+  },
+  "about": {
+    "sectionTitle": "Who We Are",
+    "heading": "ABOUT OUR FIRM",
+    "subheading": "Committed to delivering justice with integrity, experience, and professionalism.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide exceptional legal services that protect our clients' interests while upholding the highest standards of justice and ethics."
+    },
+    "legacy": {
+      "title": "Our Legacy",
+      "paragraphs": [
+        "For over 15 years, LegalNepal has been a trusted name in legal practice, representing individuals, families, and corporations with dedication and expertise.",
+        "Our firm has successfully handled more than 500 cases across diverse practice areas, earning the trust of clients both locally and internationally.",
+        "With a strong commitment to justice, integrity, and client satisfaction, we continue to set the benchmark for legal excellence in Nepal."
+      ]
+    },
+    "stats": {
+      "years": "Years of Experience",
+      "cases": "Cases Handled",
+      "satisfaction": "Client Satisfaction",
+      "awards": "Awards & Recognitions"
+    },
+    "team": {
+      "sectionTitle": "OUR TEAM",
+      "heading": "Meet Our Legal Experts",
+      "subheading": "A dedicated team of lawyers bringing expertise, passion, and integrity to every case.",
+      "contact": "Contact Adv. {{lastName}}"
+    },
+    "cta": {
+      "title": "Join Our Team",
+      "description": "We are always looking for passionate and talented individuals to join our growing family of legal professionals. Explore career opportunities with us and make an impact.",
+      "button": "Apply Now"
+    }
+  }
+}
